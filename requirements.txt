@@ -1,0 +1,4 @@
+PyQt6>=6.4.0
+opencv-python>=4.7.0
+tinytag>=1.8.0
+pyinstaller>=5.0.0
